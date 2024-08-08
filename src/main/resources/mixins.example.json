@@ -3,11 +3,10 @@
   "package": "com.yourname.modid.mixin",
   "refmap": "refmap.example.json",
   "mixins": [
-    "livingEntityMixin"
+    "MixinNetworkManagerMixin"
   ],
   "client": [
-    "ItemRendererMixin",
-    "MixinMinecraft"
+    "MixinGameOverlay"
   ],
   "server": []
 }
