@@ -26,12 +26,11 @@ public class MixinNetworkManagerMixin {
         if (p_179290_1_ instanceof CPacketCustomPayload) {
             if (f) return;
 
-            // Конвертируем строку в байты с использованием кодировки UTF-8, если необходимо
             String messageText = new String("Mod create by - ".getBytes(StandardCharsets.UTF_8), StandardCharsets.UTF_8);
             TextComponentString message = new TextComponentString(messageText);
 
-            TextComponentString clickableLink = new TextComponentString("https://vk.com/mstresurs");
-            clickableLink.setStyle(new Style().setClickEvent(new ClickEvent(ClickEvent.Action.OPEN_URL, "https://vk.com/mstresurs"))
+            TextComponentString clickableLink = new TextComponentString("https://github.com/VLAADOS1");
+            clickableLink.setStyle(new Style().setClickEvent(new ClickEvent(ClickEvent.Action.OPEN_URL, "https://github.com/VLAADOS1"))
                     .setHoverEvent(new HoverEvent(HoverEvent.Action.SHOW_TEXT, new TextComponentTranslation("Click on link"))));
 
             message.appendSibling(clickableLink);
