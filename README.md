@@ -13,8 +13,8 @@
 
 ## Установка
 
-1. Скачайте и установите [Minecraft Forge]([https://files.minecraftforge.net/net/minecraftforge/forge/1.12.2/](https://github.com/VLAADOS1/Triads-forge-1.12.2/releases/tag/Triads)) для Minecraft 1.12.2.
-2. Скачайте последнюю версию мода Золотого Прямоугольника с страницы [GitHub Releases]([https://github.com/yourusername/yourmod/releases](https://github.com/VLAADOS1/Triads-forge-1.12.2/releases/tag/Triads)).
+1. Скачайте и установите [Minecraft Forge]([https://files.minecraftforge.net/net/minecraftforge/forge/1.12.2/] для Minecraft 1.12.2.
+2. Скачайте последнюю версию мода Золотого Прямоугольника с страницы [GitHub Releases](https://github.com/VLAADOS1/Triads-forge-1.12.2/releases/tag/Triads).
 3. Поместите файл мода `.jar` в папку `mods` вашего Minecraft.
 4. Запустите Minecraft.
 
@@ -36,5 +36,5 @@
 
 ## Контакты
 
-- Если у вас есть вопросы или проблемы, откройте issue на [странице Issues GitHub]([https://github.com/yourusername/yourmod/issues](https://github.com/VLAADOS1/Triads-forge-1.12.2/issues)).
+- Если у вас есть вопросы или проблемы, откройте issue на [странице Issues GitHub](https://github.com/yourusername/yourmod/issues](https://github.com/VLAADOS1/Triads-forge-1.12.2/issues).
 - Или напишите мне в Discord @vlaados | (более приоритетный вариант связи)
