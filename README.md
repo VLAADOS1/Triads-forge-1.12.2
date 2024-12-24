@@ -36,5 +36,5 @@
 
 ## Контакты
 
-Если у вас есть вопросы или проблемы, откройте issue на [странице Issues GitHub]([https://github.com/yourusername/yourmod/issues](https://github.com/VLAADOS1/Triads-forge-1.12.2/issues)).
-Или напишите мне в Discord @vlaados | (более приоритетный вариант связи)
+- Если у вас есть вопросы или проблемы, откройте issue на [странице Issues GitHub]([https://github.com/yourusername/yourmod/issues](https://github.com/VLAADOS1/Triads-forge-1.12.2/issues)).
+- Или напишите мне в Discord @vlaados | (более приоритетный вариант связи)
